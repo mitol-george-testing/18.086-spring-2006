@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "84b06ab4-b3e7-63cc-f537-5507e60fa961"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mathematical Methods for Engineers II",
+  "course_description": "This graduate-level course is a continuation of Mathematical Methods for Engineers I (18.085). Topics include numerical methods; initial-value problems; network flows; and optimization.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.086",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
